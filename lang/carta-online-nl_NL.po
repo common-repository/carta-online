@@ -1,0 +1,727 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-28 10:21+0200\n"
+"PO-Revision-Date: 2023-09-28 14:02+0200\n"
+"Last-Translator: Hans Wijntjes\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/cartaonline-admin.php:5
+msgid "Carta Online Settings"
+msgstr "Carta Online Instellingen"
+
+#: admin/cartaonline-admin.php:10
+msgid ""
+"Visit <a href=\"https://cartaonline.nl\">https://cartaonline.nl</a> for more "
+"information."
+msgstr ""
+"Bezoek <a href=\"https://cartaonline.nl\">https://cartaonline.nl</a> voor "
+"meer informatie."
+
+#: carta-online.php:76
+msgid "Connection"
+msgstr "Verbinding"
+
+#: carta-online.php:82
+msgid "Portal Address (URL)"
+msgstr "Http-adres van de Portal (URL)"
+
+#: carta-online.php:89
+msgid "API Key"
+msgstr "API Key"
+
+#: carta-online.php:96
+msgid "Browser behavior"
+msgstr "Browser gedrag"
+
+#: carta-online.php:102
+msgid "Cache duration"
+msgstr "Cache bewaartijd"
+
+#: carta-online.php:109
+msgid "API call timeout"
+msgstr "API call timeout"
+
+#: carta-online.php:116
+msgid "Grace period timeout"
+msgstr "Grace period timeout"
+
+#: carta-online.php:123
+msgid "Session cache limiter"
+msgstr "Session cache limiter"
+
+#: carta-online.php:130
+msgid "Content Rendering"
+msgstr "Html-inhoud genereren"
+
+#: carta-online.php:136
+msgid "Page name of detail page"
+msgstr "Naam van de pagina met cursus-details"
+
+#: carta-online.php:143
+msgid "Redirect base"
+msgstr "Basisnaam voor redirect pagina"
+
+#: carta-online.php:150
+msgid "Enable special pages"
+msgstr "Activeer speciale Carta pagina's"
+
+#: carta-online.php:157
+msgid "Alternate subscription page"
+msgstr "Alternatieve inschrijfpagina"
+
+#: carta-online.php:164
+msgid "Your Google Ads ID:"
+msgstr "Uw Google Ads ID:"
+
+#: carta-online.php:172
+msgid "Inject code for Google Tagmanager"
+msgstr "Injecteer code voor Google Ads"
+
+#: carta-online.php:179
+msgid "Your Google Tagmanager ID:"
+msgstr "Uw Google Ads ID:"
+
+#: carta-online.php:187
+msgid "Redirect page"
+msgstr "Basisnaam voor redirect pagina"
+
+#: carta-online.php:194
+msgid "Special render options"
+msgstr "Speciale renderopties"
+
+#: carta-online.php:201
+msgid "Branding"
+msgstr "Merken"
+
+#: carta-online.php:208 carta-online.php:214
+msgid "Styling"
+msgstr "Styling"
+
+#: carta-online.php:228
+msgid "Please provide custom styling."
+msgstr "Voer specifieke styling voor de plugin in."
+
+#: carta-online.php:239
+msgid ""
+"This is the address where your Carta Online portal is hosted, please use "
+"HTTPS. (Example: https://portal.cartaonline.nl)"
+msgstr ""
+"Dit is het adres waar uw Carta Online portal wordt gehost. (Voorbeeld: "
+"https://portal.cartaonline.nl)"
+
+#: carta-online.php:250
+msgid "The maximum number of minutes that a cache file is stored.."
+msgstr "Het maximum aantal minuten een cachefile bewaardt wordt."
+
+#: carta-online.php:261
+msgid "The maximum number of seconds that an API call may take."
+msgstr "Het maximum aantal seconde dat een API call mag duren."
+
+#: carta-online.php:272
+msgid "The maximum number of minutes which a cache file is considered usable."
+msgstr ""
+"Het maximum aantal minuten wat een cache file als bruikbaar wordt beschouwd."
+
+#: carta-online.php:282
+msgid "Enable special content pages for teacher profiles and offer contents."
+msgstr "Activeer speciale pagina's voor docentprofielen en speciaal aanbod."
+
+#: carta-online.php:292
+msgid "Enable Google Ads injection on page containing course details."
+msgstr "Activeer de Google Ads scripts op de website."
+
+#: carta-online.php:301
+msgid "Enter your Google Ads ID (e.g. AW-123456789)."
+msgstr "Voer uw Google Ads ID in (bijv: AW-123456789)."
+
+#: carta-online.php:311
+msgid "Enable Google Tagmanager injection on page containing course details."
+msgstr "Activeer de Google Ads scripts op de website."
+
+#: carta-online.php:320
+msgid "Enter your Google Tagmanager ID (e.g. AW-123456789)."
+msgstr "Voer uw Google Ads ID in (bijv: AW-123456789)."
+
+#: carta-online.php:330
+msgid ""
+"The cache limiter defines which cache control HTTP headers are sent to the "
+"client. These headers determine the rules by which the page content may be "
+"cached by the client and intermediate proxies."
+msgstr ""
+"De cache-limiter definieert welke HTTP-headers voor cachecontrol naar de "
+"client worden verzonden. Deze headers bepalen de regels waarmee de pagina-"
+"inhoud door de client en intermediate proxy's in de cache mag worden "
+"opgeslagen."
+
+#: carta-online.php:339
+msgid "Enter special render options as supplied by your consultant."
+msgstr "Voer de special render-opties in."
+
+#: carta-online.php:348
+msgid ""
+"Enter the name of a brand. Only content for this brand is shown on the "
+"website."
+msgstr ""
+"Voer de naam van een merk in. Alleen inhoud voor dit merk wordt getoond op "
+"de website."
+
+#: carta-online.php:357
+msgid ""
+"Special subscription page if the default Carta Online subscription page is "
+"not used. %identifier% wil be substituted by the correct identifier."
+msgstr ""
+"Speciale inschrijfpagina als de standaard Carta Online inschrijfpagina niet "
+"wordt gebruikt. %identifier% wordt vervangen door de juiste "
+"identificatiecode."
+
+#: carta-online.php:366
+msgid "Redirect url if the course doesn't exist."
+msgstr ""
+"Redirect naar deze pagina als de cursus niet meer bestaat. Gebruik de home "
+"page om om deze site te zoeken."
+
+#: carta-online.php:377
+msgid ""
+"Only enter the name of the page as specified in the permalink of the page. "
+"Do not enter the full path."
+msgstr ""
+"Voer alleen de naam van de pagina in zoals aangegeven in de permalink van de "
+"pagina (bijv 'Details')."
+
+#: carta-online.php:388
+msgid ""
+"Enter base page name to render redirect structure next to parameterized "
+"structure for detail pages. /redirect/xxx/yyy => /details/?class=xxx. <br />"
+msgstr ""
+"Voer de basis paginanaam in voor het renderen van de redirect structuur. /"
+"redirect_base/classid/classname => /details/?class=ckassid&cn=classname. "
+"<br />"
+
+#: carta-online.php:397
+msgid ""
+"You can find your API Key at your Carta Online portal under Menu -> Api -> "
+"Programs, if this menu-item is not visible, please contact Carta Online at"
+msgstr ""
+"U kunt uw API Key vinden in uw Carta Online portal onder Menu -> Api -> "
+"Programma's. Als dit menu-item niet zichtbaar is, neem dan contact op met "
+"Carta Online"
+
+#: carta-online.php:404
+msgid "Enter the connection details to connect to Carta Online"
+msgstr "Voer de details van de verbinding met Carta Online in"
+
+#: carta-online.php:407
+msgid "Enter the desired browser behavior"
+msgstr "Voer het gewenste browser gedrag in"
+
+#: carta-online.php:410
+msgid "Provide custom styling for the plugin"
+msgstr "Voer specifieke styling voor de plugin in"
+
+#: carta-online.php:413
+msgid "Specify your prefered content rendering options for the plugin"
+msgstr "Instellingen voor het genereren van de html-inhoud"
+
+#: includes/co_api.php:397
+msgid "carta-online/cache folder is not writable"
+msgstr "carta-online/cache bestandsmap kan niet beschreven worden"
+
+#: includes/co_api.php:400 includes/co_api.php:423
+msgid "Carta Online Plugin configuration error:"
+msgstr "Carta Online Plugin configuratiefout:"
+
+#: includes/co_custom_pages.php:11
+msgid "Teacher Profiles"
+msgstr "Docentprofielen"
+
+#: includes/co_custom_pages.php:12
+msgid "Teacher Profile"
+msgstr "Docentprofiel"
+
+#: includes/co_custom_pages.php:13
+msgid "Teacher"
+msgstr "Docentprofiel"
+
+#: includes/co_custom_pages.php:14 includes/co_custom_pages.php:50
+msgid "Add New"
+msgstr "Nieuw"
+
+#: includes/co_custom_pages.php:15
+msgid "Add New Teacher Profile"
+msgstr "Voeg nieuw  docentprofiel toe"
+
+#: includes/co_custom_pages.php:16
+msgid "New Teacher Profile"
+msgstr "Nieuw  docentprofiel"
+
+#: includes/co_custom_pages.php:17
+msgid "Edit Teacher Profile"
+msgstr "Wijzig docentprofiel"
+
+#: includes/co_custom_pages.php:18
+msgid "View Teacher Profile"
+msgstr "Bekijk docentprofiel"
+
+#: includes/co_custom_pages.php:19
+msgid "All Teacher Profile"
+msgstr "Alle docentprofielen"
+
+#: includes/co_custom_pages.php:20
+msgid "Search Teacher Profile"
+msgstr "Zoek docentprofielen"
+
+#: includes/co_custom_pages.php:22
+msgid "teacher-profile"
+msgstr "docentprofiel"
+
+#: includes/co_custom_pages.php:47
+msgid "Fields"
+msgstr "Vakgebieden"
+
+#: includes/co_custom_pages.php:48 includes/co_custom_pages.php:49
+#: includes/co_custom_pages.php:112
+msgid "Field"
+msgstr "Vakgebied"
+
+#: includes/co_custom_pages.php:51
+msgid "Add New Field"
+msgstr "Voeg nieuw vakgebied toe"
+
+#: includes/co_custom_pages.php:52
+msgid "New Field"
+msgstr "Nieuw vakgebied"
+
+#: includes/co_custom_pages.php:53
+msgid "Edit Field"
+msgstr "Wjizig vakgebied"
+
+#: includes/co_custom_pages.php:54
+msgid "View Field"
+msgstr "Bekijk vakgebied"
+
+#: includes/co_custom_pages.php:55
+msgid "All Fields"
+msgstr "Alle vakgebieden"
+
+#: includes/co_custom_pages.php:56
+msgid "Search Fields"
+msgstr "Doorzoek vakgebieden"
+
+#: includes/co_custom_pages.php:58
+msgid "field-info"
+msgstr "vakgebied"
+
+#: includes/co_custom_pages.php:90 includes/co_custom_pages.php:91
+msgid "Carta Online Link"
+msgstr "Carta Online Link"
+
+#: includes/co_custom_pages.php:101
+msgid "Carta ID"
+msgstr "Carta ID"
+
+#: includes/co_custom_pages.php:103
+msgid "Enter the online ID of the Teacher"
+msgstr "Voer de online ID van de docent uit Carta in"
+
+#: includes/co_custom_pages.php:114
+msgid "Enter the complete name of the Field as found in Carta."
+msgstr "Voer hier de volledige naam van het vakgebied uit Carta in."
+
+#: includes/co_render.php:18
+msgid "no data"
+msgstr "geen gegevens"
+
+#: includes/co_render.php:23
+msgid "Test mode: "
+msgstr "Test mode: "
+
+#: includes/co_render.php:240
+msgid "Subscribe"
+msgstr "Schrijf je in"
+
+#: includes/co_render.php:339
+msgid "before "
+msgstr "voor "
+
+#: includes/co_render.php:465
+msgid "day"
+msgstr "dag"
+
+#: includes/co_render.php:468 includes/co_render.php:472
+msgid "days"
+msgstr "dagen"
+
+#: includes/co_render.php:484
+msgid "No dates planned"
+msgstr "Nog geen datum gepland"
+
+#: includes/co_render.php:509
+msgid "Dates in YYYY will be announced later"
+msgstr "Data in YYYY worden nader bekend gemaakt"
+
+#: includes/co_render.php:567
+msgid "No information"
+msgstr "Geen informatie"
+
+#: includes/co_render.php:618
+msgid "Teacher with postID"
+msgstr "Docent met post ID"
+
+#: includes/co_render.php:618 includes/co_render.php:650
+#: includes/co_render.php:711
+msgid "not found."
+msgstr "niet gevonden."
+
+#: includes/co_render.php:650
+msgid "Teacher profile with cartaID"
+msgstr "Docentprofiel met cartaID"
+
+#: includes/co_render.php:711
+msgid "Contact with postID"
+msgstr "Medewerker met post ID"
+
+#: includes/co_shortcode.php:149
+msgid "Error:"
+msgstr "Fout:"
+
+#: includes/co_shortcode_checkhtml5.php:18
+msgid "Helaas u kunt Carta365 niet gebruiken in deze browser."
+msgstr "Helaas u kunt Carta365 niet gebruiken in deze browser."
+
+#: includes/co_shortcode_checkhtml5.php:19
+msgid ""
+"Gefeliciteerd. Uw browser ondersteund HTML5 en u kunt Carta365 gebruiken in "
+"deze browser!"
+msgstr ""
+"Gefeliciteerd. Uw browser ondersteund HTML5 en u kunt Carta365 gebruiken in "
+"deze browser!"
+
+#: includes/co_shortcode_companylist.php:49
+#: includes/co_shortcode_expertiselist.php:30
+msgid "No data"
+msgstr "Geen gegevens"
+
+#: includes/co_shortcode_companylist.php:59
+msgid ""
+"Error in shortcode co_companylist: size of headers and fields lists differ."
+msgstr ""
+"Fout in shortcode co_companylist: grootte van kop- en veldlijsten "
+"verschillen."
+
+#: includes/co_shortcode_expertiselist.php:43
+msgid ""
+"Error in shortcode co_companylist: size of extra labels and options lists "
+"differ. Extra labels and options ignored"
+msgstr ""
+"Fout in shortcode co-companylist: grootte van extra labels en bijbehorende "
+"opties verschillen. Extra labels en opties genegeerd"
+
+#: includes/co_shortcode_filter.php:22 includes/co_widget.php:117
+msgid "Category:"
+msgstr "Cursussoort:"
+
+#: includes/co_shortcode_filter.php:23 includes/co_shortcode_filter.php:25
+#: includes/co_shortcode_filter.php:27
+msgid "Any"
+msgstr "Alles"
+
+#: includes/co_shortcode_filter.php:24 includes/co_widget.php:114
+msgid "Location:"
+msgstr "Locatie:"
+
+#: includes/co_shortcode_filter.php:26 includes/co_widget.php:120
+msgid "Field:"
+msgstr "Vakgebied:"
+
+#: includes/co_shortcode_filter.php:113
+msgid "search"
+msgstr "zoek"
+
+#: includes/co_shortcode_filter.php:264
+msgid "Error"
+msgstr "Fout"
+
+#: includes/co_shortcode_offer.php:210
+msgid "No offer found"
+msgstr "Geen aanbod gevonden"
+
+#: includes/co_shortcode_qualification.php:31 includes/co_shortcode_test.php:65
+msgid "Send"
+msgstr "Verstuur"
+
+#: includes/co_shortcode_qualification.php:40 includes/co_shortcode_test.php:77
+msgid "try again..."
+msgstr "probeer nogmaals..."
+
+#: includes/co_shortcode_qualification.php:63
+msgid "Invalid input. Please enter a valid registration number."
+msgstr "Ongeldige invoer. Voer een geldig registratienummer in."
+
+#: includes/co_shortcode_qualification.php:74
+msgid "Registrationnumber:"
+msgstr "Registratienummer:"
+
+#: includes/co_shortcode_qualification.php:75
+msgid "Name:"
+msgstr "Naam:"
+
+#: includes/co_shortcode_qualification.php:82
+msgid "Qualification:"
+msgstr "Kwalificatie:"
+
+#: includes/co_shortcode_qualification.php:86
+msgid "No active registration found."
+msgstr "Geen actieve registraties gevonden."
+
+#: includes/co_shortcode_qualification.php:94
+msgid "No scheme found."
+msgstr "Geen schema gevonden."
+
+#: includes/co_shortcode_qualification.php:99
+msgid "No registrations found."
+msgstr "Geen registraties gevonden."
+
+#: includes/co_shortcode_qualification.php:104
+msgid "Service unavailable"
+msgstr "Service niet beschikbaar"
+
+#: includes/co_shortcode_qualification.php:118
+msgid "Registration number:"
+msgstr "Registratienummer:"
+
+#: includes/co_shortcode_test.php:23
+msgid "API Key:"
+msgstr "API Key:"
+
+#: includes/co_shortcode_test.php:25
+msgid "URL:"
+msgstr "URL:"
+
+#: includes/co_shortcode_test.php:27
+msgid "Request:"
+msgstr "Shortcode:"
+
+#: includes/co_shortcode_test.php:100
+msgid "Invalid input. Please enter a valid API Key."
+msgstr "Ongeldige invoer. Voer een geldig registratienummer in."
+
+#: includes/co_shortcode_test.php:102
+msgid "Invalid input. Please enter a valid API URL."
+msgstr "Ongeldige invoer. Voer een geldige URL in."
+
+#: includes/co_shortcode_test.php:104
+msgid "Invalid input. Please enter a valid request."
+msgstr "Ongeldige invoer. Voer een geldige shortcode in."
+
+#: includes/co_utils.php:235
+msgid ""
+"Error: Plugin Carta-Online is not correctly configured. Did you specify a "
+"valid key and portal address? See "
+msgstr ""
+"Fout: De instellingen van de Carta-Online plugin zijn niet correct. Heeft u "
+"de juiste sleutel en URL ingevoerd? Zie "
+
+#: includes/co_utils.php:235
+msgid "plugin help page."
+msgstr "plugin help pagina."
+
+#: includes/co_widget.php:17
+msgid "Carta Online"
+msgstr "Carta Online"
+
+#: includes/co_widget.php:17
+msgid "Carta Online small offerings widget"
+msgstr "Carta Online aanbod widget"
+
+#: includes/co_widget.php:96
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/co_widget.php:98
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/co_widget.php:100
+msgid "Number of items to show:"
+msgstr "Aantal items dat getoond moet worden:"
+
+#: includes/co_widget.php:102
+msgid "Widget ID:"
+msgstr "Widget ID:"
+
+#: includes/co_widget.php:104
+msgid "Detail page:"
+msgstr "Detailpagina:"
+
+#: includes/co_widget.php:106
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/co_widget.php:108
+msgid "Status:"
+msgstr "Status:"
+
+#: includes/co_widget.php:109 includes/co_widget.php:112
+msgid "Available:"
+msgstr "Beschikbaar:"
+
+#: includes/co_widget.php:109
+msgid "canceled; finished; started; closed; almostfull; full; open"
+msgstr "canceled; finished; started; closed; almostfull; full; open"
+
+#: includes/co_widget.php:111
+msgid "Type:"
+msgstr "Type:"
+
+#: includes/co_widget.php:112
+msgid "ClassDaughter; ClassMother; ClassSingle; CourseSingle;"
+msgstr "ClassDaughter; ClassMother; ClassSingle; CourseSingle;"
+
+#: includes/co_widget.php:115
+msgid ""
+"Enter locations seperated by a ';'. Locations are dynamic, please refer to "
+"Carta for an overview."
+msgstr ""
+"Voer de locaties in gescheiden door een ';'. Kijk in Carta voor een lijst "
+"met locaties."
+
+#: includes/co_widget.php:118
+msgid ""
+"Enter categories seperated by a ';'. Locations are dynamic, please refer to "
+"Carta for an overview."
+msgstr ""
+"Voer de curssussoorten in gescheiden door een ';'. Kijk in Carta voor een "
+"lijst met cursussoorten."
+
+#: includes/co_widget.php:121
+msgid ""
+"Enter fields seperated by a ';'. Locations are dynamic, please refer to "
+"Carta for an overview."
+msgstr ""
+"Voer de vakgebieden in gescheiden door een ';'. Kijk in Carta voor een lijst "
+"met vakgebieden."
+
+#: includes/co_widget.php:124
+msgid "URL based filter"
+msgstr "Filter op basis van de URL"
+
+#: includes/co_widget.php:125
+msgid ""
+"URL based filtering can be used to add the plugin to your existing offering "
+"pages. See <a href=\"https://www.cartaonline.nl/carta-wordpress-plugin/\" "
+"target=blank>Carta Online</a> for more info."
+msgstr ""
+"Gebruik dit filter om eenvoudig uw bestaande aanbodpagina's aan de Carta "
+"backoffice te koppelen. Zie <a href=\"https://www.cartaonline.nl/carta-"
+"wordpress-plugin/\" target=blank>Carta Online</a> voor meer informatie."
+
+#: includes/co_widget.php:127
+msgid "Rendering"
+msgstr "Html genereren"
+
+#: includes/co_widget.php:129
+msgid "Template:"
+msgstr "Sjabloon:"
+
+#: includes/co_widget.php:130
+msgid ""
+"Enter template for rendering offer item. See <a href=\"https://www."
+"cartaonline.nl/carta-wordpress-plugin/\" target=blank>Carta Online</a> for a "
+"list of possible fields."
+msgstr ""
+"Voer een sjabloon in voor het genereren van het aanbod. Kijk op <a "
+"href=\"https://www.cartaonline.nl/carta-wordpress-plugin/\" "
+"target=blank>Carta Online</a> voor een overzicht van de mogelijke velden."
+
+#: includes/co_widget.php:133
+msgid "Planning Template:"
+msgstr "Sjabloon voor de uitklapbare planningsinformatie:"
+
+#: includes/co_widget.php:134
+msgid ""
+"Enter template for rendering planning details. Leave empty if not used. See "
+"<a href=\"https://www.cartaonline.nl/carta-wordpress-plugin/\" "
+"target=blank>Carta Online</a> for a list of possible fields."
+msgstr ""
+"Voer een sjabloon in voor het genereren van de planningsdetails Bijv "
+"%dateStart%%timeStart% op %location%. Kijk op <a href=\"https://www."
+"cartaonline.nl/carta-wordpress-plugin/\" target=blank>Carta Online</a> voor "
+"een overzicht van de mogelijke velden."
+
+#: includes/co_widget.php:136
+msgid "Submit Caption:"
+msgstr "Tekst op inschrijfknop:"
+
+#: includes/co_widget.php:137
+msgid "Enter caption to be used on the submit button."
+msgstr "Voer de tekst in die op de inschrijfknop getoond moet worden."
+
+#~ msgid "Enable Session cache limter."
+#~ msgstr "Schakel  session cache limter in."
+
+#~ msgid "private no expire"
+#~ msgstr "Session cache limiter"
+
+#~ msgid "Add New Profile"
+#~ msgstr "Voeg nieuw profiel toe"
+
+#~ msgid "Parent Teacher Profiles:"
+#~ msgstr "Bovenliggende docentprofielen"
+
+#~ msgid "No Teacher Profile found."
+#~ msgstr "Geen docentprofiel gevonden"
+
+#~ msgid "No Teacher Profile found in Trash."
+#~ msgstr "Geen docentprofiel in prullenbak gevonden"
+
+#~ msgid "Parent Fields:"
+#~ msgstr "Bovenliggend vakgebied"
+
+#~ msgid "No Fields found."
+#~ msgstr "Geen vakgebied gevonden"
+
+#~ msgid "No Fields found in Trash."
+#~ msgstr "Geen vakgebied gevonden in de prullenbak"
+
+#~ msgid "Field Info"
+#~ msgstr "Vakgebied"
+
+#~ msgid "field ID"
+#~ msgstr "Vakgebied"
+
+#~ msgid "Schrijf je in"
+#~ msgstr "Schrijf je in"
+
+#~ msgid "Alle vakgebieden"
+#~ msgstr "Alle vakgebieden"
+
+#~ msgid "name"
+#~ msgstr "naam"
+
+#~ msgid "residence"
+#~ msgstr "woonplaats"
+
+#~ msgid "qualifications"
+#~ msgstr "kwalificaties"
+
+#~ msgid "e-mail"
+#~ msgstr "e-mail"
+
+#~ msgid "website"
+#~ msgstr "website"
+
+#~ msgid "e.g. DLP01712401"
+#~ msgstr "Bijv. DLP01712401"
+
+#~ msgid "Unexpected error"
+#~ msgstr "Onverwachte fout"

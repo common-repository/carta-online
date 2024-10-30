@@ -1,0 +1,111 @@
+/*
+<div ID={widgetID}>   (Optional, only for widgets, use your ownm use ID={ShortCodeID} for shortcode)
+	<div class=co-offer-list
+		<article class=co-offer-item
+			<img>
+			<div class=co-offer-subject
+			<div class=co-offer-description
+			<div class=co-offer-next-start-date
+			<div class=co-offer-next-start-time
+			<div class=co-offer-location
+			<div class=co-offer-summary
+			<div class=co-offer-submit
+				<a> co-offer-register-link
+		<article class=co-offer-item
+		 ... etc
+*/
+
+.co-offer-list 
+{
+  background-color: transparent;
+}
+
+.co-offer-item 
+{
+	margin: 5px 0;
+	border-top: 2px solid red;
+}
+
+.co-offer-item:first-child
+{
+	border-top: none;
+}
+
+.co-offer-list img 
+{
+	height: 200px;;
+	margin-right: 25px;
+}
+
+.co-offer-list article
+{
+	clear: both;
+}
+
+.co-offer-item .co-offer-subject
+{
+	font-weight: bold;
+	font-size: 200%;
+	color: red;
+	margin-bottom: 10px;
+}
+
+.co-offer-item .co-offer-description
+{
+	font-style: italic;
+}
+
+.co-offer-item .co-offer-next-start-date,.co-offer-item .co-offer-next-start-time
+{
+  margin-right:6px;
+  float:left;
+}
+
+.co-offer-location
+{
+  font-weight: bold;
+}
+
+.co-offer-register-link {
+	-moz-box-shadow:inset 0px 1px 0px 0px #f5978e;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f5978e;
+	box-shadow:inset 0px 1px 0px 0px #f5978e;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f24537), color-stop(1, #c62d1f));
+	background:-moz-linear-gradient(top, #f24537 5%, #c62d1f 100%);
+	background:-webkit-linear-gradient(top, #f24537 5%, #c62d1f 100%);
+	background:-o-linear-gradient(top, #f24537 5%, #c62d1f 100%);
+	background:-ms-linear-gradient(top, #f24537 5%, #c62d1f 100%);
+	background:linear-gradient(to bottom, #f24537 5%, #c62d1f 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f24537', endColorstr='#c62d1f',GradientType=0);
+	background-color:#f24537;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
+.co-offer-register-link:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #c62d1f), color-stop(1, #f24537));
+	background:-moz-linear-gradient(top, #c62d1f 5%, #f24537 100%);
+	background:-webkit-linear-gradient(top, #c62d1f 5%, #f24537 100%);
+	background:-o-linear-gradient(top, #c62d1f 5%, #f24537 100%);
+	background:-ms-linear-gradient(top, #c62d1f 5%, #f24537 100%);
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24537 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#c62d1f', endColorstr='#f24537',GradientType=0);
+	background-color:#c62d1f;
+	color:#eeeeee;
+}
+
+.co-offer-register-link:active {
+	position:relative;
+	color:#eeeeee;
+	top:1px;
+}
